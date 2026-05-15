@@ -21,3 +21,5 @@ Dependencies:
     Optional (for additional archive formats):
         pip install py7zr      # for .7z
         pip install rarfile    # for .rar (also requires the 'unrar' system tool)
+        
+<img width="1080" height="1008" alt="image" src="https://github.com/user-attachments/assets/5258e3cf-dd33-4b85-b7f7-4f94eabb459f" />
