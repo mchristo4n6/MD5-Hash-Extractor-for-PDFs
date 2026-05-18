@@ -44,7 +44,7 @@ unsupported in the log without crashing the run.
 Download a pre-built executable from [Releases](../../releases), or run from source:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hashfish.git
+git clone https://github.com/mchristo4n6/hashfish.git
 cd hashfish
 pip install -r requirements.txt
 python hashfish.py
